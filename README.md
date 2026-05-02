@@ -18,12 +18,14 @@ Before tech, I competed as a national swimmer, so discipline, speed, and pressur
 
 ---
 
-### 🦈 Play Lane Shark — my latest project
+### 🦈 Lane Shark — my latest project
 
 > A fast-paced swim-lane arcade game inspired by competitive swimming. Race a shark through 5 ocean lanes, collect fish, dodge jellyfish, and hit the finish line.  
 > Built with **zero dependencies** — pure HTML, CSS, and JavaScript.
 
 <div align="center">
+
+![Lane Shark Demo](https://raw.githubusercontent.com/Humza-khaliq/lane-shark/main/demo.svg)
 
 [![Play Lane Shark](https://img.shields.io/badge/▶%20PLAY%20NOW-Lane%20Shark-00e5ff?style=for-the-badge&logoColor=white)](https://humza-khaliq.github.io/lane-shark/)
 [![View Source](https://img.shields.io/badge/View%20Source-GitHub-0a2040?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Humza-khaliq/lane-shark)
