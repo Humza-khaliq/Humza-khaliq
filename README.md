@@ -10,7 +10,7 @@
 
 ### Something about me
 
-I'm a UMass Amherst building projects across data, AI, and full-stack web development.
+I'm a UMass Amherst student building projects across data, AI, and full-stack web development.
 
 I like building things that are practical, fast, and useful. I’m especially interested in the space where software meets business: tools that help people make better decisions, move quicker, and solve real problems.
 
