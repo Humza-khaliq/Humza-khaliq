@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Humza Khaliq 👋
+# Hey, I'm Humza 
 
 **AI · Data · Full-Stack @ UMass Amherst**
 
